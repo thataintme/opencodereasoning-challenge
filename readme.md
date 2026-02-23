@@ -11,7 +11,7 @@ This repository contains three main folders:
 Navigate to the frontend folder:
 
 ```bash
-cd frontend
+cd leapla-ocr-frontend
 ```
 
 Install dependencies:
